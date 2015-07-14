@@ -1,3 +1,3 @@
 # udacity-portfolio
-for FEWD Nanodegree
-readme
+Allison's portfolio project for FEWD Nanodegree
+... also my first attempt using github desktop
